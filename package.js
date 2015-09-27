@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'ostrio:iron-router-protected',
+  name: 'ldk:iron-router-protected',
   version: '1.1.1',
   summary: 'Create protected and meteor-roles restricted routes within iron-router',
   git: 'https://github.com/VeliovGroup/Meteor-iron-router-protected',
